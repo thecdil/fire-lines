@@ -1,5 +1,7 @@
 ---
 title: Three Fires
+layout: essay
+permalink: /04_three_fires.html
 ---
 
 You could say that it was and continues to be attitudes like Swift's — the idea that every single natural resource can and should be harvested for financial profit — that changed the climate, and led to the age that scientists are calling the Anthropocene. Fire historian Stephen Pyne, however, argues that the *Pyrocene* would be a more appropriate name for our time — for the landscapes born of the Industrial Revolution.

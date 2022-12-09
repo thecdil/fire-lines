@@ -1,5 +1,7 @@
 ---
 title: Two Brains
+layout: essay
+permalink: /05_two_brains.html
 ---
 
 In the 1980s, an Oxford literary scholar and philosopher, Iain McGilchrist, was troubled by the fact that his age's approach to literary scholarship felt so analytical, disembodied, and lacking in emotional nuance. In an effort to get closer to the body, he decided to retrain in medicine. He ended up specializing in psychiatry, and becoming a neuroimaging researcher at Johns Hopkins. While there, he focused his work on the differences between the right and left hemispheres of the human brain. 

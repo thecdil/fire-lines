@@ -1,5 +1,7 @@
 ---
 title: Archival Silence
+layout: essay
+permalink: /06_archival_silence.html
 ---
 
 This essay was largely born of an attempt to research the history of fire in the Northwest, using — as a starting place — the University of Idaho's library archives. 

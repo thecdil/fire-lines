@@ -1,5 +1,7 @@
 ---
 title: Clearings
+layout: essay
+permalink: /07_clearings.html
 ---
 
 Almost more than fire, I think, people today are afraid of the smoke — see it as a hallmark of runaway warming, of a polluted post-industrial landscape, run out of control. 
