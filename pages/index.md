@@ -1,6 +1,6 @@
 ---
-layout: home-infographic
-title: Home
+layout: home
+#title: Home
 permalink: /
 ---
 
