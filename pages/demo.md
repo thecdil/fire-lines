@@ -103,29 +103,29 @@ There are three levels of quote to use, and examples are below.
 
 #### quote.html
 
-{% include essay/quote.md text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="beinecke-pdf" source="Page 28"%}
+{% include essay/quote.html text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="beinecke-pdf" source="Page 28"%}
 
 
 *Code for regular quote:* 
 
-```{% raw %}{% include essay/quote.md text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="beinecke-pdf" source="Page 28"%}{% endraw %} ```
+```{% raw %}{% include essay/quote.html text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="beinecke-pdf" source="Page 28"%}{% endraw %} ```
 
 #### quote-medium.html
 
-{% include essay/quote-medium.md text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}
+{% include essay/quote-medium.html text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}
 
 *Code for medium quote:* 
 
-```{% raw %}{% include essay/quote-medium.md text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}{% endraw %} ```
+```{% raw %}{% include essay/quote-medium.html text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}{% endraw %} ```
 
 #### quote-big.html
 
-{% include essay/quote-big.md text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}
+{% include essay/quote-big.html text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}
 
 
 *Code for big quote:* 
 
-```{% raw %}{% include essay/quote-big.md text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}{% endraw %} ```
+```{% raw %}{% include essay/quote-big.html text="Rhythm is a recurring movement of notes and rests (silences) in time. It’s the human perception of time." source="iconcollective.edu" source-link="https://iconcollective.edu/basic-music-theory/"  align="right" color="info" %}{% endraw %} ```
 
 
 ### Options:
