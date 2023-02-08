@@ -11,15 +11,15 @@ permalink: /demo.html
 ### Image the size of the text block
 
 
-```{% raw %}{% include essay/figure.html objectid="SalmoPriest-CriticalHabitat-SalmoDivide535rim-IMAG0114" %}{% endraw %} ```
+```{% raw %}{% include essay/figure.html objectid="im-06" %}{% endraw %} ```
 
-{% include essay/figure.html objectid="SalmoPriest-CriticalHabitat-SalmoDivide535rim-IMAG0114" %}
+{% include essay/figure.html objectid="im-06" %}
 
 ### Full page wide image
 
-```{% raw %}{% include essay/figure-full-page.html objectid="SalmoPriest-CriticalHabitat-SalmoDivide535rim-IMAG0114" %}{% endraw %}```
+```{% raw %}{% include essay/figure-full-page.html objectid="im-06" %}{% endraw %}```
 
-{% include essay/figure-full-page.html objectid="SalmoPriest-CriticalHabitat-SalmoDivide535rim-IMAG0114" %}
+{% include essay/figure-full-page.html objectid="im-06" %}
 
 
 ## Margin note 
@@ -44,10 +44,10 @@ This is a fake paragraph so that we can demonstrate the margin note.
 
 ### Example
 
-Habitasse platea dictumst quisque sagittis purus sit. Quam elementum pulvinar etiam non. Faucibus scelerisque eleifend donec pretium vulputate sapien. Accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue. {% include essay/marginnote-image.html id="tellus-note" text="This is a margin note with an image!." image="hoary-marmot-wrestle"%}
+Habitasse platea dictumst quisque sagittis purus sit. Quam elementum pulvinar etiam non. Faucibus scelerisque eleifend donec pretium vulputate sapien. Accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue. {% include essay/marginnote-image.html id="tellus-note" text="This is a margin note with an image!." image="im-06"%}
 
 ``` {% raw %} 
-{% include essay/marginnote-image.html id="tellus-note" text="This is a margin note with and image!." image="hoary-marmot-wrestle"%}{% endraw %}```
+{% include essay/marginnote-image.html id="tellus-note" text="This is a margin note with and image!." image="im-06"%}{% endraw %}```
 
 
 ### Options:
@@ -103,12 +103,12 @@ There are three levels of quote to use, and examples are below.
 
 #### quote.html
 
-{% include essay/quote.html text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="beinecke-pdf" source="Page 28"%}
+{% include essay/quote.html text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="cda_tpa1914" source="Page 28"%}
 
 
 *Code for regular quote:* 
 
-```{% raw %}{% include essay/quote.html text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="beinecke-pdf" source="Page 28"%}{% endraw %} ```
+```{% raw %}{% include essay/quote.html text="Our last day in camp. The order to get ready for an early start tomorrow has gone forth, and we must leave our delightful wild life and return to the land of boiled shirts and stovepipe hats." objectid="cda_tpa1914" source="Page 28"%}{% endraw %} ```
 
 #### quote-medium.html
 
