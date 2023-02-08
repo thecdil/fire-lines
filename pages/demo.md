@@ -19,7 +19,7 @@ permalink: /demo.html
 
 ```{% raw %}{% include essay/figure-full-page.html objectid="im-06" %}{% endraw %}```
 
-{% include essay/figure-full-page.html objectid="im-06" %}
+{% include essay/figure-full-page.html objectid="im-01" %}
 
 
 ## Margin note 
