@@ -1,0 +1,4 @@
+<figure class="fullwidth my-5">{%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}    
+    <a href="{{ '/mapitem.html' | relative_url | append: '?id=' | append: item.objectid }}"><img class="figure-img img-fluid rounded lazyload" alt="{{ item.description | escape }}" data-src="{% if item.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: item.youtubeid | append: '/hqdefault.jpg' | relative_url }}{% else %}{{ item.object_download }}{% endif %}" {% if include.style%}style="{{ include.style}}"{% endif %} ></a>
+    {% unless include.caption == false %}<figcaption class="h4 figure-caption float-none mb-5">{% if include.text %}{{ include.text }}{% else %}{{ item.title }} {{item.description}}{% endif %}</figcaption>{% endunless %}
+</figure>

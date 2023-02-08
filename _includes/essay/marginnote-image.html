@@ -1,0 +1,3 @@
+{%- assign item = site.data[site.metadata] | where: "objectid", include.image | first -%}
+<label for="{{include.id}}" class="margin-toggle">&#8853;</label><input type="checkbox" id="{{include.id}}" class="margin-toggle"/>
+<span class="marginnote {{include.class}}"><a href="{{ '/mapitem.html' | relative_url | append: '?id=' | append: item.objectid }}"><img alt="{{ item.description | escape }}" src="{% if item.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: item.youtubeid | append: '/hqdefault.jpg' | relative_url }}{% else %}{{ item.image_thumb }}{% endif %}" style="width:{{ include.image-width | default: '70'}}%" /></a><br><span class="pt-4 figure-caption text-center">{{include.text}}</span></span>

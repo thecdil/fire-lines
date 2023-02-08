@@ -1,0 +1,5 @@
+<figure>{%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
+    <label for="{{include.objectid}}" class="margin-toggle">&#8853;</label><input type="checkbox" id="{{include.id}}" class="margin-toggle"/>{% unless include.caption == false %}<span class="marginnote"><a href="{{ '/mapitem.html' | relative_url | append: '?id=' | append: item.objectid }}">{{ item.title }}</a> </span> {% endunless %}
+    
+    <a href="{{ '/mapitem.html' | relative_url | append: '?id=' | append: item.objectid }}"><img class="figure-img img-fluid rounded lazyload" alt="{{ item.description | escape }}" data-src="{% if item.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: item.youtubeid | append: '/hqdefault.jpg' | relative_url }}{% else %}{{ item.image_small }}{% endif %}" {% if include.style%}style="{{ include.style}}"{% endif %}></a>
+</figure>

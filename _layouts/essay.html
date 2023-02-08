@@ -1,5 +1,13 @@
 ---
-layout: page-narrow
+layout: default
 ---
-<h1 class="display-2">{{ page.title }}</h1>
-{{ content }}
+
+<div class="container tufte-content">
+    <h1 class="display-2">{{ page.title }}</h1>
+
+    <article class="pt-0">   
+        <section>
+    {{ content }}
+        </section>
+    </article>
+</div>
