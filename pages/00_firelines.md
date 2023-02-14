@@ -13,7 +13,11 @@ permalink: /00_firelines.html
 
 
 
-## 2020
+
+
+
+
+# 1. 2020
 
 
 In the summer of 2020, a lot of us had a sense that the world was burning in unprecedented ways.  
