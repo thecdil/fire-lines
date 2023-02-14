@@ -45,6 +45,9 @@ A 1911 paper by the forester E.T. Allen, Handling the Fire Peril, called 1910 �
 
 The University of Idaho’s Special Collections hold a hand-typed copy of a document called History of 1910 Forest Fires in Idaho and Western Montana, by the pioneering forester Elers Koch. It begins: “If history is not written it is soon forgotten. The 1910 forest fire in the Northern Rocky Mountain Region is an episode which has had much to do with shaping the fire policy not only of that region but of the whole United States. The tragic and disastrous culmination of that battle to save the forests shocked the nation into a realization of the necessity of a better system of fire control.” He goes on to provide firsthand accounts of men fighting the fire on many different fronts. 
 
+{% include essay/marginnote-image.html id="tellus-note" text="History of 1910 Forest Fires in Idaho and Western Montana." image="im-02"%}
+
+
 These largely focus on the terror of it. Between August 20th and 21st 1910, at least eighty-five people died as a result of the fire. Many more reportedly lost their minds with fear.
 
 One group of men, realizing that the fire was inevitably going to overtake them, were ordered by their leader to wet their bedding in a spring and lie down beneath it. “They had hardly done this,” Koch explains, “when the fire swept over them. At this juncture, two of the men apparently lost their reason completely, jumped up, threw off their bedding, rushed into the fire, and burned to death only a few yards from where the rest of the men lay.”
