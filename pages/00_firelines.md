@@ -12,7 +12,7 @@ permalink: /00_firelines.html
 {:.blockquote}
 
 
-## 1. 2020
+### 1. 2020
 
 {% include essay/figure.html objectid="im-06" %}
 
