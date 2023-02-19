@@ -11,11 +11,22 @@ permalink: /00_firelines.html
 > -- Interviewee, in *Nez Perce Perspectives on Fire Management and Program Accessibility*
 {:.blockquote}
 
+line1
+<br/>
+line2
+
+line1
+
+
+
+line2
 
 
 ### 1. 2020
-
-
+line1
+\
+\
+line2
 
 In the summer of 2020, a lot of us had a sense that the world was burning in unprecedented ways.  
 
