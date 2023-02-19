@@ -245,7 +245,7 @@ One thing is notably missing from the University of Idaho’s archives. Though t
 
 On the one hand, this makes sense. There’s a deeply understandable lack of trust, and desire not to give Indigenous knowledge and artifacts to colonial institutions that will, at best, ignore or misuse them.
 
-But it feels important to acknowledge their absence. Today, Indigenous perspectives on fire are more valued by the colonial society than they ever have been before—a value arguably born of necessity and terror. But it feels important to acknowledge their absence. Today, Indigenous perspectives on fire are more valued by the colonial society than they ever have been before—a value arguably born of necessity and terror. And yet, these perspectives can still make certain people uncomfortable, and complicate what might otherwise seem like simple questions. 
+But it feels important to acknowledge their absence. Today, Indigenous perspectives on fire are more valued by the colonial society than they ever have been before—a value arguably born of necessity and terror. And yet, these perspectives can still make certain people uncomfortable, and complicate what might otherwise seem like simple questions. 
 
 One of these questions is whether or not we have a right to expect that our homes won’t burn. As Drader explains, “A central concept in traditional Nez Perce fire knowledge is that fire cannot be ‘owned’ (interviewee) or controlled: ‘if the fire is naturally started, like through lightning...[residents] can’t live in a dangerous area and expect...the Forest Service to come and put the fire out just because you have your house there’ (interviewee). Thus, in the Nez Perce view, people who live in fire prone areas accept a certain level of risk.” 
 
