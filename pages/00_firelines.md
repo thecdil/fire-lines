@@ -27,10 +27,13 @@ Rumors flew on social media that members of “Antifa” had left Portland to st
 
 It was easy to feel like the situation was unprecedented, even traumatic. In some ways it was; a certain portion of humanity has changed the climate. Now we’re learning about the consequences. And yet, you could also say that history is full of examples of similarly apocalyptic times (some, as we’ll soon see, involving fire). History also explains exactly why we are now living in a fire age. And though it is inextricably linked to climate change, it has at least as much to do with the history of colonization.
 
+</pre>
 
 
 
 
+
+</pre>
 
 ### 2. 1910
 
