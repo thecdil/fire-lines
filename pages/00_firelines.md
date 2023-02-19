@@ -22,7 +22,6 @@ permalink: /00_firelines.html
 ### 1. 2020
 
 .
-.
 
 In the summer of 2020, a lot of us had a sense that the world was burning in unprecedented ways.  
 
@@ -55,6 +54,8 @@ Lake could easily be speaking to the whole history of European colonization; but
 The Great Fire (also sometimes called the Big Burn, Big Blowup, or the Devil’s Broom Fire) began with many small fires as early as June, 1910, and reached its climax on the 20th of August, with the arrival of hurricane-force winds. It burned a still-astonishing three million acres across Idaho, western Montana, and eastern Washington, much of that over the course of just two days.
 
 A 1911 paper by the forester E.T. Allen, Handling the Fire Peril, called 1910 “probably the worst fire year in American history—a year when no rain fell for months, when the winds were veritable hurricanes, when fires sprang up everywhere and were numbered not by hundreds but by thousands…” Another forester, Edward G. Stahl, wrote of flames “hundreds of feet high and fanned by a tornadic wind so violent that the flames flattened out ahead, swooping to earth in great darting curves, truly a veritable red demon from hell.” The smoke could be seen in New England, and soot settled as far away as Greenland. The silver-mining town of Wallace, Idaho was largely destroyed, and several smaller towns were burned down to nothing.
+
+.
 
 {% include essay/figure.html objectid="im-10" %}
 
@@ -95,6 +96,8 @@ Another young person caught up in a situation beyond their control that beggars 
 
 ### 3. 10 a.m.
 
+.
+
 In the wake of 1910’s Great Fire—as a direct consequence of the death and destruction it caused—the fledgling Forest Service successfully petitioned Congress for funding to manage wildlands across the West and keep them from ever burning so fiercely again. Ferdinand Silcox, a quartermaster in the region during the Great Fire who would go on to become Chief of the Forest Service, published a paper in November 1910 called How the Fires Were Fought. In their entry on the 1910 Fire, the Forest History Society neatly summarizes Silcox’s argument by explaining his belief “that the best way to prevent such a disaster in the future was to apply enough science, technology, and manpower to the problem, [because] fire should and could be eliminated from the landscape.” The Great Fire, the horror of it, and the economic loss, were used as incitement to establish a “total suppression,” or “10:00 a.m. policy,” so-called because it dictated that any wildfire reported on American soil should be put out by no later than 10 a.m. the following morning.
 
 In order to pursue this policy, roads would need to be built into wilderness, and infrastructure of all kinds developed in every isolated reach of canyon and forest. In North Idaho, a number of “Timber Protective Associations” were founded, alongside the growing Forest Service agency, beginning in 1905, and accelerating after the Great Fire. These associations are essentially donation-based, non-governmental groups of firefighters, funded largely by the timber companies and other private landowners. An amalgamation of a number of these associations, called the Clearwater-Potlatch Timber Protective Association (CPTPA), still exists (as a 501(c)(4)). They send qualified firefighters around the country as needed, and on their website claim to protect 988,828 acres of Idaho forest. 
@@ -119,8 +122,6 @@ In his 1944 book Burning an Empire: the story of American forest fires, Stewart 
 .
 
 ### 4. Three Fires
-
-.
 
 .
 
@@ -164,9 +165,9 @@ By the time conversations about fire management were being had in the Western U.
 
 .
 
-.
-
 In the 1980s, an Oxford literary scholar and philosopher, Iain McGilchrist, was troubled by the fact that his age’s approach to literary scholarship felt so analytical, disembodied, and lacking in emotional nuance. In an effort to get closer to the body, he decided to retrain in medicine. He ended up specializing in psychiatry, and becoming a neuroimaging researcher at Johns Hopkins. While there, he focused his work on the differences between the right and left hemispheres of the human brain.
+
+.
 
 {% include essay/figure.html objectid="im-08" %}
 
@@ -216,9 +217,6 @@ Of the other, we get only a sentence.
 ### 6. Archival Silence
 
 .
-
-.
-
 
 This essay was largely born of an attempt to research the history of fire in the Northwest, using the University of Idaho’s library archives as a starting place. 
 
