@@ -11,22 +11,18 @@ permalink: /00_firelines.html
 > -- Interviewee, in *Nez Perce Perspectives on Fire Management and Program Accessibility*
 {:.blockquote}
 
-line1
-<br/>
-line2
+.
 
-line1
+.
 
+.
 
-
-line2
-
+.
 
 ### 1. 2020
-line1
-\
-\
-line2
+
+.
+.
 
 In the summer of 2020, a lot of us had a sense that the world was burning in unprecedented ways.  
 
@@ -46,9 +42,9 @@ It was easy to feel like the situation was unprecedented, even traumatic. In som
 
 .
 
-.
-
 ### 2. 1910
+
+.
 
 {% include essay/figure.html objectid="im-01" %}
 
@@ -88,6 +84,13 @@ As I read about the lullaby boy, I thought of Shakespeare’s Ophelia, lying in 
 
 Another young person caught up in a situation beyond their control that beggars comprehension.
 
+.
+
+.
+
+.
+
+.
 
 
 ### 3. 10 a.m.
@@ -107,8 +110,19 @@ By the logic they have been using for the last hundred years, CPTPA’s policy d
 
 In his 1944 book Burning an Empire: the story of American forest fires, Stewart Holbrook quotes Ernest Swift, acting conservation director for Wisconsin: “I firmly believe that Americans should feel that every foot of land we possess as a nation has [financial] value, that there is a possible utilization for all of it.”
 
+.
+
+.
+
+.
+
+.
 
 ### 4. Three Fires
+
+.
+
+.
 
 It was and continues to be attitudes like Swift’s—the idea that every single natural resource can and should be harvested for financial profit—that changed the climate, and led to the age that scientists are calling the Anthropocene. Fire historian Stephen Pyne, however, argues that the Pyrocene would be a more appropriate name for our time, for the landscapes born of the Industrial Revolution.
 
@@ -138,9 +152,19 @@ This is because “developed” people had started burning their fires far away 
 
 By the time conversations about fire management were being had in the Western U.S., in the late 19th and early 20th centuries, the cultural amnesia of the white foresters was complete. In their minds, there were only two alternatives left: let fire burn unmitigated in wilderness, as they assumed it always had done, before their arrival, or suppress it completely. 
 
+.
 
+.
+
+.
+
+.
 
 ### 5. Two Brains 
+
+.
+
+.
 
 In the 1980s, an Oxford literary scholar and philosopher, Iain McGilchrist, was troubled by the fact that his age’s approach to literary scholarship felt so analytical, disembodied, and lacking in emotional nuance. In an effort to get closer to the body, he decided to retrain in medicine. He ended up specializing in psychiatry, and becoming a neuroimaging researcher at Johns Hopkins. While there, he focused his work on the differences between the right and left hemispheres of the human brain.
 
@@ -180,9 +204,20 @@ Of the other, we get only a sentence.
 
 “The 'lullaby boy' was taken to an asylum.” 
 
+.
+
+{% include essay/figure.html objectid="im-07" %}
+
+.
+
+.
 
 
 ### 6. Archival Silence
+
+.
+
+.
 
 
 This essay was largely born of an attempt to research the history of fire in the Northwest, using the University of Idaho’s library archives as a starting place. 
@@ -213,10 +248,17 @@ One of these questions is whether or not we have a right to expect that our home
 
 In other words, it’s important to remember that we are living in fire’s home, not the other way around. If the arrival of fire surprised us, it’s not because it was unexpected; it’s because we were immersed in an amnesiac culture all along.
 
+.
 
+.
 
+.
+
+.
 
 ### 7. Clearings
+
+.
 
 {% include essay/figure.html objectid="im-09" %}
 
