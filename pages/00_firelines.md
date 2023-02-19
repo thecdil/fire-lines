@@ -12,9 +12,10 @@ permalink: /00_firelines.html
 {:.blockquote}
 
 
+
 ### 1. 2020
 
-{% include essay/figure.html objectid="im-06" %}
+
 
 In the summer of 2020, a lot of us had a sense that the world was burning in unprecedented ways.  
 
@@ -68,3 +69,19 @@ As I read about the lullaby boy, I thought of Shakespeare’s Ophelia, lying in 
 >As one incapable of her own distress...*
 
 Another young person caught up in a situation beyond their control that beggars comprehension.
+
+
+
+### 3. 10 a.m.
+
+In the wake of 1910’s Great Fire—as a direct consequence of the death and destruction it caused—the fledgling Forest Service successfully petitioned Congress for funding to manage wildlands across the West and keep them from ever burning so fiercely again. Ferdinand Silcox, a quartermaster in the region during the Great Fire who would go on to become Chief of the Forest Service, published a paper in November 1910 called How the Fires Were Fought. In their entry on the 1910 Fire, the Forest History Society neatly summarizes Silcox’s argument by explaining his belief “that the best way to prevent such a disaster in the future was to apply enough science, technology, and manpower to the problem, [because] fire should and could be eliminated from the landscape.” The Great Fire, the horror of it, and the economic loss, were used as incitement to establish a “total suppression,” or “10:00 a.m. policy,” so-called because it dictated that any wildfire reported on American soil should be put out by no later than 10 a.m. the following morning.
+
+In order to pursue this policy, roads would need to be built into wilderness, and infrastructure of all kinds developed in every isolated reach of canyon and forest. In North Idaho, a number of “Timber Protective Associations” were founded, alongside the growing Forest Service agency, beginning in 1905, and accelerating after the Great Fire. These associations are essentially donation-based, non-governmental groups of firefighters, funded largely by the timber companies and other private landowners. An amalgamation of a number of these associations, called the Clearwater-Potlatch Timber Protective Association (CPTPA), still exists (as a 501(c)(4)). They send qualified firefighters around the country as needed, and on their website claim to protect 988,828 acres of Idaho forest. 
+
+For decades, the Timber Protective Agencies pursued their goal of suppressing every fire in “its infancy” in relative peace. But beginning in the mid-twentieth century, scientists started to recognize and accept what people Indigenous to the West had known all along—that it was a huge mistake to pursue a policy of total suppression; that regular burning is essential to prevent catastrophic fires. The Forest Service began to adjust some of their policies accordingly. But the Timber Protective Associations’ allegiance is still to their funders—and they seem to have no interest in updating their methods. “It's all in the name,” Jodi Walker wrote in the Lewiston Tribune in 2001. “Let others talk of fire as a tool, a method of forest management or a necessary evil.” Walker goes on to quote Rusty Eck, program planner for the CPTPA: “‘The whole point of this association has, is and will be quick initial attack. To Potlatch and the state of Idaho this [the forest] is just cropland and we are trying to protect their investment.’” 
+
+Even now, the mission statement on their website hasn’t changed. As Eck says: “‘When something works, it's awful hard to fix it … We’ve been in business a long time.’”
+
+By the logic they have been using for the last hundred years, CPTPA’s policy does make sense. To the vast majority of the white settlers of the Northwest’s forests, the trees were a financial asset, above all else. Some, including Elers Koch, thought from the beginning that the forest had value in and of itself as wilderness, and that some degree of burning was essential to preserve its “natural” state (though even he did not understand the way it had been managed pre-colonization). But forestry itself was a nascent discipline in the early 20th century, and, over time, those who thought like Koch lost out to those who favored total suppression and believed that everything wild should be tamed, and, ideally, turned into profit. 
+
+In his 1944 book Burning an Empire: the story of American forest fires, Stewart Holbrook quotes Ernest Swift, acting conservation director for Wisconsin: “I firmly believe that Americans should feel that every foot of land we possess as a nation has [financial] value, that there is a possible utilization for all of it.”
