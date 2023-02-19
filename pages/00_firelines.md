@@ -201,6 +201,8 @@ In other words, it’s important to remember that we are living in fire’s home
 
 ### 7. Clearings
 
+{% include essay/figure.html objectid="im-09" %}
+
 Almost more than fire, I think, people today are afraid of the smoke. It feels like a hallmark of a polluted, post-industrial landscape run out of control. 
 
 And yet most cultures the world over (even in Europe, if you go back far enough) view fire and even smoke as cleansing. 
