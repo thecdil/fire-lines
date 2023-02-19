@@ -49,6 +49,8 @@ The Great Fire (also sometimes called the Big Burn, Big Blowup, or the Devil’s
 
 A 1911 paper by the forester E.T. Allen, Handling the Fire Peril, called 1910 “probably the worst fire year in American history—a year when no rain fell for months, when the winds were veritable hurricanes, when fires sprang up everywhere and were numbered not by hundreds but by thousands…” Another forester, Edward G. Stahl, wrote of flames “hundreds of feet high and fanned by a tornadic wind so violent that the flames flattened out ahead, swooping to earth in great darting curves, truly a veritable red demon from hell.” The smoke could be seen in New England, and soot settled as far away as Greenland. The silver-mining town of Wallace, Idaho was largely destroyed, and several smaller towns were burned down to nothing.
 
+{% include essay/figure.html objectid="im-10" %}
+
 The University of Idaho’s Special Collections hold a hand-typed copy of a document called History of 1910 Forest Fires in Idaho and Western Montana, by the pioneering forester Elers Koch. It begins: “If history is not written it is soon forgotten. The 1910 forest fire in the Northern Rocky Mountain Region is an episode which has had much to do with shaping the fire policy not only of that region but of the whole United States. The tragic and disastrous culmination of that battle to save the forests shocked the nation into a realization of the necessity of a better system of fire control.” He goes on to provide firsthand accounts of men fighting the fire on many different fronts. 
 
 {% include essay/marginnote-image.html id="tellus-note" text="History of 1910 Forest Fires in Idaho and Western Montana." image="im-02"%}
