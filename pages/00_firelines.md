@@ -279,7 +279,7 @@ Of course, a sky full burning plastic, and whatever chemical nightmares today go
 
 And yet. 
 
-There is something about the idea of smoke as cleanser that stirs and surprises my brain more than any other fact I’ve learned about the history of the Western firescape. Confined to my house, with the smoke erasing light, shadow, gradation, I find it easier than ever to feel trapped in a kind forever-present of fear and disorientation. It feels like the smoke is increasing as a presence in the air, a direct reflection of summers growing hotter and dryer. But in fact, most of the 20th and early 21st centuries were times of unusually smoke-free skies. 
+There is something about the idea of smoke as cleanser that stirs and surprises my brain more than any other fact I’ve learned about the history of the Western firescape. Confined to my house in North Idaho, with the smoke erasing light, shadow, gradation, I find it easier than ever to feel trapped in a kind forever-present of fear and disorientation. It feels like the smoke is increasing as a presence in the air, a direct reflection of the summers growing hotter and dryer. But in fact, most of the 20th and early 21st centuries were times of unusually smoke-free skies. 
 
 As Pyne writes: “…while wildfires gather more and more media attention, the amount of land actually burned overall is shrinking … California experienced 4.2 million burned acres in 2020; in preindustrial times, it would have known probably over 10 million acres burned though not burned in wild surges.” The same is true throughout the Northwest.
 
