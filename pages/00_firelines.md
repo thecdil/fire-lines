@@ -307,9 +307,9 @@ Maybe I love this just because I’m the person perennially nagging people not t
 
 Sources (in order of first appearance):
 
-Drader, Daniella Ruth Lorincz, Nez Perce perspectives on fire management and program accessibility, MS Thesis, (Washington State University Research Exchange, 2009), https://rex.libraries.wsu.edu/esploro/outputs/99900525150601842.
+Drader, Daniella Ruth Lorincz, Nez Perce perspectives on fire management and program accessibility, MS Thesis, (Washington State University Research Exchange, 2009), https://hdl.handle.net/2376/100561.
 
-NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters, 2023, https://hdl.handle.net/2376/100561. 
+NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters, 2023, https://www.ncei.noaa.gov/access/billions/. 
 
 Meerah Powell, Kimberley Freda, and Conrad Wilson, "Clackamas County deputy placed on leave after sharing antifa wildfire rumors in online video," Oregon Public Broadcasting, 12 September, 2020 https://www.opb.org/article/2020/09/12/clackamas-county-antifa-rumor-sheriff-deputy-leave/. 
 
