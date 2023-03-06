@@ -4,7 +4,7 @@
 
         <div class="col-md-7  px-4 mt-2">
 
-            <h4><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
+            <h2 class="h4"><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}: {{ site.tagline }}</a></h2>
             <p class="text-white"><small>{{ site.description }}</small></p>
             <nav>
                 <ul id="footer-nav" class="nav nav-pills ">
@@ -26,16 +26,21 @@
 
         <div class="col-md-5 mt-2 text-end">
 
-           {% if site.organization-logo-nav %} <p class="text-end">
-                <a href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                    <img id="footer-logo" class="img-fluid" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name }} home">
+            <p class="text-end">
+                <a href="https://www.theconfluencelab.org/" target="_blank" rel="noopener">
+                    <img class="img-fluid footer-logo" src="{{ '/assets/img/confl-lab-logo-rev-white.png' | relative_url }}" title="The Confluence Lab" alt="Confluence home">
                 </a>
             </p>
-            {% endif %}
-            <p class="text-white" id="footer-credits">
+            <p class="text-end">
+                <a href="https://cdil.lib.uidaho.edu/" target="_blank" rel="noopener">
+                    <img class="img-fluid footer-logo" src="https://cdil.lib.uidaho.edu/assets/img/logo.png" title="Center for Digital Inquiry and Learning (CDIL)" alt="CDIL home">
+                </a>
+            </p>
+            
+            <p class="text-white" >
                 <small><em>built with</em>
                     <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
-                        <img src="{{ '/assets/img/collectionbuilder-logo.png' | relative_url }}" class="img-fluid" alt="CollectionBuilder logo" >
+                        <img src="{{ '/assets/img/collectionbuilder-logo.png' | relative_url }}" class="img-fluid footer-logo" alt="CollectionBuilder logo" >
                     </a>
                 </small>
             </p>
