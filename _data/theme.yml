@@ -85,7 +85,12 @@ base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+font-cdn: '<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;700&display=swap" rel="stylesheet">'
+
+# add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # default icons can be overridden or new icons can be added using "icons" object
