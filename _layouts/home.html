@@ -9,24 +9,22 @@ layout: default
         background-position: {{ site.data.theme.home-banner-image-position | default: 'center' }};
     }
 </style>
-<div id="home-banner" class="container mt-3 mb-5">
+<div id="home-banner" class="container-fluid mt-3 mb-5">
     <div id="home-title-box" class="row" >
-        <div class="col-md-7">
+        <div class="col-md-5">
             <div id="title-box" class="m-5 py-3 px-5 text-white bg-dark bg-opacity-75 rounded">
-                <h1 class="display-1"><em>{{ site.title }}</em></h1>
+                <h1 class="display-1">{{ site.title }}</h1>
                 {% if site.tagline %}<p class="mb-0">{{ site.tagline }}</p>{% endif %}
             </div>
         </div>
     </div>
-    <div class="row justify-content-end">
-        <div class="col-md-5">
+    <div class="row justify-content-end mt-5">
+        <div class="col-md-4">
             <div id="toc-box" class="m-5 py-3 px-5 text-white bg-dark bg-opacity-75 rounded">
-                <ul class="list-unstyled">
-                {% for e in site.essay %}
-                <li><a class="text-white" href="{{ e.url | relative_url }}">{{ e.title }}</a></li>
-                {% endfor %}
-                </ul>
-            </div>
+
+                <a href="{{ '/00_firelines2.html' | relative_url }}" class="display-6 text-white">Read the Essay &raquo;</a>
+                
+            </div> 
         </div>
     </div>
 </div>
