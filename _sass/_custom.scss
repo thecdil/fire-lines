@@ -3,3 +3,10 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 #sidebar-nav-image { max-height: 2.5em; }
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+    font-family: 'Rubik Dirt', cursive;
+}
+.next-buttons {
+    margin-top: 3rem;
+    margin-bottom: 10rem;
+}
