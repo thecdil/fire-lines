@@ -6,15 +6,15 @@ permalink: /08_references.html
 
 Sources (in order of first appearance):
 
-Drader, Daniella Ruth Lorincz, Nez Perce perspectives on fire management and program accessibility, MS Thesis, (Washington State University Research Exchange, 2009), https://hdl.handle.net/2376/100561.
+Drader, Daniella Ruth Lorincz, Nez Perce perspectives on fire management and program accessibility, MS Thesis, (Washington State University Research Exchange, 2009), <https://hdl.handle.net/2376/100561>.
 
-NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters, 2023, https://www.ncei.noaa.gov/access/billions/. 
+NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters, 2023, <https://www.ncei.noaa.gov/access/billions/>. 
 
-Meerah Powell, Kimberley Freda, and Conrad Wilson, "Clackamas County deputy placed on leave after sharing antifa wildfire rumors in online video," Oregon Public Broadcasting, 12 September, 2020 https://www.opb.org/article/2020/09/12/clackamas-county-antifa-rumor-sheriff-deputy-leave/. 
+Meerah Powell, Kimberley Freda, and Conrad Wilson, "Clackamas County deputy placed on leave after sharing antifa wildfire rumors in online video," Oregon Public Broadcasting, 12 September, 2020 <https://www.opb.org/article/2020/09/12/clackamas-county-antifa-rumor-sheriff-deputy-leave/>. 
 
-Casey Kuhn, "‘Fire is medicine’: How Indigenous practices could help curb wildfires," PBS News Hour, 23 July, 2021, https://www.pbs.org/newshour/science/fire-is-medicine-how-indigenous-practices-could-help-curb-wildfires.
+Casey Kuhn, "‘Fire is medicine’: How Indigenous practices could help curb wildfires," PBS News Hour, 23 July, 2021, <https://www.pbs.org/newshour/science/fire-is-medicine-how-indigenous-practices-could-help-curb-wildfires>.
 
-“The 1910 Fires,” The Forest History Society, Accessed 25 February, 2023, https://foresthistory.org/research-explore/us-forest-service-history/policy-and-law/fire-u-s-forest-service/famous-fires/the-1910-fires/.
+“The 1910 Fires,” The Forest History Society, Accessed 25 February, 2023, <https://foresthistory.org/research-explore/us-forest-service-history/policy-and-law/fire-u-s-forest-service/famous-fires/the-1910-fires/>.
 
 Allen, E.T. "Handling the Fire Peril," American Forestry, vol. 17, 329-332, June, 1911, https://foresthistory.org/research-explore/us-forest-service-history/policy-and-law/fire-u-s-forest-service/famous-fires/the-1910-fires/handling-the-fire-peril/.
 
