@@ -5,11 +5,10 @@ date,Date Created,,,DCTERMS.created,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
 source,Source,,,,
+link_original,Original Link,,true,
+archive_link,Archived Link,,true,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
-objectid,Objectid,
