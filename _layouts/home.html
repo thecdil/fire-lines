@@ -11,7 +11,7 @@ layout: default
 </style>
 <div id="home-banner" class="container mt-3 mb-5">
     <div id="home-title-box" class="row" >
-        <div class="col-md-5">
+        <div class="col-md-7">
             <div id="title-box" class="m-5 py-3 px-5 text-white bg-dark bg-opacity-75 rounded">
                 <h1 class="display-1"><em>{{ site.title }}</em></h1>
                 {% if site.tagline %}<p class="mb-0">{{ site.tagline }}</p>{% endif %}
@@ -21,9 +21,8 @@ layout: default
     <div class="row justify-content-end">
         <div class="col-md-5">
             <div id="toc-box" class="m-5 py-3 px-5 text-white bg-dark bg-opacity-75 rounded">
-                {% assign essays = site.pages | where: 'layout', 'essay' %}
                 <ul class="list-unstyled">
-                {% for e in essays %}
+                {% for e in site.essay %}
                 <li><a class="text-white" href="{{ e.url | relative_url }}">{{ e.title }}</a></li>
                 {% endfor %}
                 </ul>
