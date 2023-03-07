@@ -28,7 +28,7 @@ This, Indigenous fire scholars argue, needs to happen again if we want to rebala
 
 At the end of September 2020, when smoke had been blotting out the sun for months, Aldern published another essay called “Where There’s Good Fire, There’s Good Smoke.” In it, he resists the perspective that so many during that time took—that the smoke was an enemy, frightening.
 
-{% include essay/marginnote-image.html id="tellus-note" text="Where There's Good Fire, There's Good Smoke" image="im-130"%}
+{% include essay/marginnote-image.html id="im-130" text="Where There's Good Fire, There's Good Smoke" image="im-130"%}
 
 “During a rainy spell,” Aldern explains, “I sometimes get to the point of thinking, “‘You know, I sure am tired of all this rain, but I know we need it — for now I’ll stay inside or, if I need to go out, I’ll throw on a raincoat or grab an umbrella, just in case I need it.’ If we can get through our current pandemic of wildfires and their lethal smoke-storms, and if Indigenous people can re-establish their cultural fire regimens, perhaps, during a future smoky spell, I’ll be able to start to say to myself, ‘You know, I sure am tired of all this smoke, but I know we need it — for now I’ll stay inside or, if I need go out (maybe even to see if I can pitch in and help with the burns), I’ll grab an N95 mask, just in case I need it.’”
 
