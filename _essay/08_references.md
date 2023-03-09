@@ -20,7 +20,7 @@ Allen, E.T. "Handling the Fire Peril," American Forestry, vol. 17, 329-332, June
 
 Stahl, Edward G., "Reminisces of Edward G. Stahl, deputy forest supervisor on the Pend Oreille Forest (Idaho) in 1910, an excerpt from Early Days in the Forest Service," Volume 3: 236-40, https://foresthistory.org/wp-content/uploads/2017/02/EdwardStahl.pdf.
 
-Koch, Elers, "History of the 1910 Forest Fires in Idaho and Western Montana",  The Big Burn Collection, Digital Initiatives, University of Idaho Library, 1942, 1, https://www.lib.uidaho.edu/digital/bigburn/items/bigburn00.html.
+Koch, Elers, "History of the 1910 Forest Fires in Idaho and Western Montana", The Big Burn Collection, Digital Initiatives, University of Idaho Library, 1942, 1, https://www.lib.uidaho.edu/digital/bigburn/items/bigburn00.html.
 
 Shakespeare, William. *Hamlet,* 4-7-148 in *The Norton Shakespeare*, W.W. Norton and Company, 1997.
 
@@ -30,7 +30,7 @@ Loveridge, Earl W., The Fire Suppression Policy of the U. S. Forest Service, Jou
 
 Walker, Jodi, “It’s all in the Name,” Lewiston Tribune, 23 September, 2001, https://lmtribune.com/northwest/cptpa-its-all-in-the-name-let-others-talk-of-fire-as-a-tool-a/article_65a9e386-e3ff-53f7-b46d-e1cf28646f16.html. 
 
-Koch,  Elers, “The Passing of the Lolo Trail.” Fire Ecology, 12, 7–12 (2016). https://doi.org/10.1007/BF03400632.
+Koch, Elers, “The Passing of the Lolo Trail.” Fire Ecology, 12, 7–12 (2016). https://doi.org/10.1007/BF03400632.
 
 Holbrook, Stewart, Burning an Empire: the story of American forest fires, Macmillan, 1944, https://digital.library.cornell.edu/catalog/chla2900624. 
 
@@ -38,7 +38,7 @@ Pyne, Stephen J., *The Pyrocene,* University of California Press, 2021, 10.
 
 Information on Northwestern fire myths might be found in *A Broken Flute: The Native Experience in Books for Children.* United Kingdom: AltaMira Press, 2006, or Barry Lopez. *Giving Birth to Thunder, Sleeping with His Daughter: Coyote Builds North America.* United States: Andrews McMeel Publishing, LLC, 2013.
 
-Sacaira, Manola, “Indigenous fire practices once shaped the Northwest — and they might again,”  Crosscut, 9 September, 2019.
+Sacaira, Manola, “Indigenous fire practices once shaped the Northwest — and they might again,” Crosscut, 9 September, 2019. https://crosscut.com/focus/2019/09/indigenous-fire-practices-once-shaped-northwest-and-they-might-again
 
 McGilchrist, Iain, *The Master and His Emissary: The Divided Brain and the Making of the Western World.* United Kingdom: Yale University Press, 2019. https://channelmcgilchrist.com/master-and-his-emissary/ 
 
@@ -48,7 +48,7 @@ Coleman, Jude, “Indigenous knowledge reveals history of fire-prone California 
 
 Boutsalis, Kelly, “The art of fire: reviving the Indigenous craft of cultural burning,” The Narwhal, 20 September, 2020, https://thenarwhal.ca/indigenous-cultural-burning/ 
 
-T. David, Aaron; Asarian J., Eli; Lake, Frank K.,  “Wildfire Smoke Cools Summer River and Stream Water Temperatures,” Water Resources Research, 31 August 2018 https://doi.org/10.1029/2018WR022964 
+T. David, Aaron; Asarian J., Eli; Lake, Frank K., “Wildfire Smoke Cools Summer River and Stream Water Temperatures,” Water Resources Research, 31 August 2018 https://doi.org/10.1029/2018WR022964 
 
 Thompson, Elizabeth, “Wildfire Smoke Boosts Photosynthetic Efficiency.” Eos, 101, 12 February 2020, https://doi.org/10.1029/2020EO139985. 
 
