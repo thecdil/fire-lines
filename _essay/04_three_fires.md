@@ -4,6 +4,9 @@ layout: essay
 permalink: /04_three_fires.html
 ---
 
+{% include essay/figure.html objectid="im-24" %}
+
+
 It was and continues to be attitudes like Swift’s—the idea that every single natural resource can and should be harvested for financial profit—that changed the climate, and led to the age that scientists are calling the Anthropocene. Fire historian Stephen Pyne, however, argues that the Pyrocene would be a more appropriate name for our time, for the landscapes born of the Industrial Revolution.
 
 In his book-length essay, *The Pyrocene,* Pyne explains that unlike the other classical elements, fire as we define it actually cannot exist without life, without the combination of oxygen and the carbon-based, organic molecules of which all living things are composed. Fire appeared as soon as plants colonized continents, and, as far as we know now, it cannot be found on any other planet in the universe. Pyne divides fire on Earth into three types: “first-fire” is the naturally occurring fire that appeared with the first life, the fire that lightning starts on the mountain, that burns until the rain puts it out.
