@@ -7,7 +7,7 @@ permalink: /05_two_brains.html
 In the 1980s, an Oxford literary scholar and philosopher, Iain McGilchrist, was troubled by the fact that his age’s approach to literary scholarship felt so analytical, disembodied, and lacking in emotional nuance. In an effort to get closer to the body, he decided to retrain in medicine. He ended up specializing in psychiatry, and becoming a neuroimaging researcher at Johns Hopkins. While there, he focused his work on the differences between the right and left hemispheres of the human brain.
 
 
-{% include essay/figure.html objectid="im-07" %}
+{% include essay/figure.html objectid="im-08" %}
 
 Researchers at the time told him that this was a career dead-end. The original pop-psychology conception of the left and right brain (the left brain is logical; the right brain creative) had largely been debunked. Both hemispheres, experts said, work together on most things. This is still believed to be true—at least in people whose brains are uninjured, and working in the way that science assumes to be “normal.” But McGilchrist was drawn to research being done on patients who had sustained localized injuries to one hemisphere or the other, and were therefore functioning primarily with only one half of their brains. 
 
@@ -23,7 +23,7 @@ When I read Pyne’s theory of second and third fire, I immediately thought of M
 
 Third fire, on the other hand, and the machines in which it burns, feel to me like the products of the left hemisphere of the brain, and the amnesiac cultures which, as Pyne explains, lost their “felt” (embodied) sense of how to relate to fire, and came to see it as “a good servant, but bad master.” Similarly, you could argue that the urge to “protect” trees for economic reasons is driven by the left brain’s self-interest, and sense that it is entitled to profit from the objects in the world around it; while the urge to suppress all wildfire is the left-brain urge to fight and control what frightens it.
 
-{% include essay/figure.html objectid="im-10" %}
+{% include essay/figure.html objectid="im-07" %}
 
 Experts in trauma are also researching the differences between the left and right hemispheres of the brain, and how they manifest in traumatized people. When a person is traumatized, particularly if they were traumatized in childhood, whole regions of the brain that are active in others may appear dark if their brains are scanned, while other unexpected regions light up. This goes some way toward answering the question put by Thenon (observer of the ‘lullaby boy’) about why some people remain cool in terrifying situations, while others end up panicked, or singing in the stream. It may have to do with the ways that trauma in childhood, or a lack thereof, shaped their brain.
 
