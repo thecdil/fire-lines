@@ -23,6 +23,8 @@ When I read Pyne’s theory of second and third fire, I immediately thought of M
 
 Third fire, on the other hand, and the machines in which it burns, feel to me like the products of the left hemisphere of the brain, and the amnesiac cultures which, as Pyne explains, lost their “felt” (embodied) sense of how to relate to fire, and came to see it as “a good servant, but bad master.” Similarly, you could argue that the urge to “protect” trees for economic reasons is driven by the left brain’s self-interest, and sense that it is entitled to profit from the objects in the world around it; while the urge to suppress all wildfire is the left-brain urge to fight and control what frightens it.
 
+{% include essay/figure.html objectid="im-10" %}
+
 Experts in trauma are also researching the differences between the left and right hemispheres of the brain, and how they manifest in traumatized people. When a person is traumatized, particularly if they were traumatized in childhood, whole regions of the brain that are active in others may appear dark if their brains are scanned, while other unexpected regions light up. This goes some way toward answering the question put by Thenon (observer of the ‘lullaby boy’) about why some people remain cool in terrifying situations, while others end up panicked, or singing in the stream. It may have to do with the ways that trauma in childhood, or a lack thereof, shaped their brain.
 
 When we experience something terrifying, experts say, it is immediately stored by the back right brain—the part that stores raw, unfiltered emotion. This part of the brain is so fast that we may never even process an experience consciously, before it is stowed away there, in darkness. 
@@ -43,6 +45,4 @@ Of the other, we get only a sentence.
 
 “The 'lullaby boy' was taken to an asylum.” 
 
-.
 
-{% include essay/figure.html objectid="im-07" %}
