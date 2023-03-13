@@ -4,7 +4,7 @@ layout: essay
 permalink: /06_archival_silence.html
 ---
 
-{% include essay/figure.html objectid="im-08" %}
+{% include essay/figure.html objectid="im-10" %}
 
 This essay was largely born of an attempt to research the history of fire in the Northwest, using the [University of Idaho’s library archives](https://www.lib.uidaho.edu/digital/bigburn/) as a starting place. 
 
