@@ -4,6 +4,8 @@ layout: essay
 permalink: /06_archival_silence.html
 ---
 
+{% include essay/figure.html objectid="im-08" %}
+
 This essay was largely born of an attempt to research the history of fire in the Northwest, using the University of Idaho’s library archives as a starting place. 
 
 In the archives, one can find the beautiful photos and remarkable accounts of the 1910 fire. One can also find the pamphlets for Idaho’s Timber Protective Associations—which seem to me to be the embodiment of a specific brand of amnesiac, forever-present, subject-object thinking. 
