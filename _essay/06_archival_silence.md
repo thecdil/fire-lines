@@ -24,7 +24,7 @@ In the 1922 report published by the Priest Lake Timber Protective Association, t
 
 {% include essay/marginnote-image.html id="cda_tpa1922" text="Coeur d'Alene Timber Protective Association Seventeenth Annual Report" image="cda_tpa1922"%}
 
-Of course, this is decidedly not to suggest that climate change isn’t real, or that droughts and heat waves in the West are not growing more intense and more common. All of that, too, is a part of the Pyrocene. But if there’s anything that can be learned from the early firefighters of the Northwest, it is this: suppression never works. Not of fires. Not of stories. Not of memories. Not of fear. And most definitely not of history—not of complicating, temporally expansive context. 
+Of course, this is decidedly *not* to suggest that climate change isn’t real, or that droughts and heat waves in the West are not growing more intense and more common. All of that, too, is a part of the Pyrocene. But if there’s anything that can be learned from the early firefighters of the Northwest, it is this: suppression never works. Not of fires. Not of stories. Not of memories. Not of fear. And most definitely not of history—not of complicating, temporally expansive context. 
 
 One thing is notably missing from the University of Idaho’s archives. Though the university sits on the homelands of the Nimiipuu (Nez Perce), Palus (Palouse) and Schitsu’umsh (Coeur d’Alene) tribes, it lacks any historical artifacts or accounts that relate to the relationships between these tribes and fire. 
 
