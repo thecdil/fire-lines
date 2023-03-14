@@ -4,9 +4,10 @@ layout: essay
 permalink: /07_clearings.html
 ---
 
-{% include essay/figure.html objectid="im-09" %}
 
 Almost more than fire, I think, people today are afraid of the smoke. It feels like a hallmark of a polluted, post-industrial landscape run out of control. 
+
+{% include essay/figure.html objectid="im-09" %}
 
 And yet most cultures the world over (even in Europe, if you go back far enough) view fire and even smoke as cleansing. 
 
