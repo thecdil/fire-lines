@@ -14,7 +14,7 @@ In a direct way, fire is: heat kills germs. From the perspective of the people i
 
 In British Columbia, Kelly Boutsalis explains, in "[The art of fire: reviving the Indigenous craft of cultural burning,](https://thenarwhal.ca/indigenous-cultural-burning/)" the Tsilhqot’in word for fire translates to “lightening the load off the land.”
 
-But in fact, smoke, too, has long been an important feature of summer in the Northwest, and was seen as a cleanser, served a cleansing purpose. Smoke can reflect sunlight and [cool river water,](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR022964) which is good for salmon. Research has also shown that light diffused by smoke actually [increases photosynthesis](https://eos.org/research-spotlights/wildfire-smoke-boosts-photosynthetic-efficiency) in certain plant species, while it renders summer heat less withering. 
+But in fact, smoke, too, has long been an important feature of summer in the Northwest, and was seen as a cleanser, served a cleansing purpose. Smoke can reflect sunlight and [cool river water,](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018WR022964) which is good for salmon. Research has also shown that light diffused by smoke actually [increases photosynthesis in certain plant species,](https://eos.org/research-spotlights/wildfire-smoke-boosts-photosynthetic-efficiency) while it renders summer heat less withering. 
 
 Of course, a sky full burning plastic, and whatever chemical nightmares today go up in flames, is not quite the same as one that is mostly fir needles, moss, and sage. Fires now burn hotter, longer, and produce more smoke, because of the heat, and the droughts, and the hundred-year fuel buildup that colonial land management created.
 
