@@ -10,32 +10,66 @@
     <link rel="stylesheet" href="{{ '/assets/lib/paged.interface.css' | relative_url }}" >
 
     <style>
-        /* custom print styles follow paged.js */
+        /* 
+            custom print styles for paged.js 
+            https://pagedjs.org/documentation/5-web-design-for-print/
+        */
 
         /* page basics */
         @page {
             size: letter;
             margin: 1.5in 1.5in;
+            /* 
+            bleed: 6mm;
+            marks: crop cross;
+            */
         }
+        /*
+        @page:left { 
+            margin-left: 25mm;
+            margin-right: 10mm;
+        }
+        @page:right {
+            margin-left: 25mm;
+            margin-right: 10mm;
+        }
+        */
         /* chapter page set up */
-        @page chapter {
-            @bottom-center {
+        @page:right chapter {
+            @bottom-right {
                 content: counter(page);
+                font-size: 11px;
             }
-            @top-center {
+            @bottom-center {
+                content: string(ctitle);
+                text-transform: uppercase;
+                font-size: 11px;
+            }
+        }
+        @page:left chapter {
+            @bottom-left {
+                content: counter(page);
+                font-size: 11px;
+            }
+            @bottom-center {
                 content: "{{ site.title }}";
+                text-transform: uppercase;
+                font-size: 11px;
             }
         }
         /* set page numbers at first chapter */
         #chapter01 { counter-reset: page 1; }
         /* set up page breaks */
-        .frontmatter-pages {
+        .frontmatter-section {
             break-before: right;
         }
-        .chapter-pages {
+        .chapter-section {
             page: chapter;
-            break-before: page;
+            break-before: right;
             margin-top: 8em; 
+        }
+        h2 {
+            string-set: ctitle content(text);
         }
 
     </style>

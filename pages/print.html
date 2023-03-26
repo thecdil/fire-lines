@@ -4,7 +4,7 @@ permalink: /print.html
 layout: print
 ---
 
-<div class="frontmatter-pages text-center">
+<div class="frontmatter-section text-center">
     <h1 class="display-3 mt-5">{{ site.title }}</h1>
     <p><small>{{ site.tagline }}</small></p>
     <p class="mt-5">{{ site.author }}</p>
@@ -12,9 +12,9 @@ layout: print
 </div>
 
 {% for c in site.essay %}
-<div class="chapter-pages" {% if forloop.first %}id="chapter01"{% endif %}>
+<div class="chapter-section" {% if forloop.first %}id="chapter01"{% endif %}>
 
-    <h2 class="chapter display-5" id="{{ c.name | replace: '.md', '' }}">{{ c.title }}</h2>
+    <h2 class="display-5" id="{{ c.name | replace: '.md', '' }}">{{ c.title }}</h2>
     
     <div class="">
 
