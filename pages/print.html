@@ -1,0 +1,29 @@
+---
+title: "Fire Lines: Exploring the Legacy of 1910's Great Fire in the Northwest, Isabel Marlens, 2023"
+permalink: /print.html
+layout: print
+---
+
+<div class="frontmatter-section text-center">
+    <h1 class="display-3 mt-5">{{ site.title }}</h1>
+    <p><small>{{ site.tagline }}</small></p>
+    <p class="mt-5">{{ site.author }}</p>
+    <p>{{ site.publication_date }}</p>
+</div>
+
+{% for c in site.essay %}
+<div class="chapter-section" {% if forloop.first %}id="chapter01"{% endif %}>
+
+    <h2 class="display-5" id="{{ c.name | replace: '.md', '' }}">{{ c.title }}</h2>
+    
+    <div class="">
+
+        <article class="pt-0">   
+            <section>
+            {{ c.content }}
+            </section>
+        </article>
+    </div>
+    
+</div>
+{% endfor %}
