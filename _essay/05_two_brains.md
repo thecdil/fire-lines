@@ -4,7 +4,7 @@ layout: essay
 permalink: /05_two_brains.html
 ---
 
-In the 1980s, an Oxford literary scholar and philosopher, Iain McGilchrist, was troubled by the fact that his age’s approach to literary scholarship felt so analytical, disembodied, and lacking in emotional nuance. In an effort to get closer to the body, he decided to retrain in medicine. He ended up specializing in psychiatry, and becoming a neuroimaging researcher at Johns Hopkins. While there, he focused his work on the differences between the right and left hemispheres of the human brain.
+In the 1980s, Oxford literary scholar and philosopher, Iain McGilchrist, was troubled by the fact that his age’s approach to literary scholarship felt so analytical, disembodied, and lacking in emotional nuance. In an effort to get closer to the body, he decided to retrain in medicine. He ended up specializing in psychiatry, and becoming a neuroimaging researcher at Johns Hopkins. While there, he focused his work on the differences between the right and left hemispheres of the human brain.
 
 
 {% include essay/figure.html objectid="im-08" %}
@@ -21,7 +21,7 @@ In his 2009 book [*The Master and His Emissary: The Divided Brain and the Making
 
 When I read Pyne’s theory of second and third fire, I immediately thought of McGilchrist’s descriptions of the left and right brain’s different ways of seeing and engaging with the world around them. It helped me understand second fire when I thought of it as existing in an intersubjective relationship with human beings, the kind of relationship that comes from engagement with the right hemisphere of the brain. As Amy Cardinal Christianson, an Indigenous fire expert in Canada, explains in Kuhn’s article, "["Fire is medicine"](https://www.pbs.org/newshour/science/fire-is-medicine-how-indigenous-practices-could-help-curb-wildfires):" “We coexist with fire, we need fire and fire needs us. It’s a different way of looking at the forest.” 
 
-Third fire, on the other hand, and the machines in which it burns, feel to me like the products of the left hemisphere of the brain, and the amnesiac cultures which, as Pyne explains, lost their “felt” (embodied) sense of how to relate to fire, and came to see it as “a good servant, but bad master.” Similarly, you could argue that the urge to “protect” trees for economic reasons is driven by the left brain’s self-interest, and sense that it is entitled to profit from the objects in the world around it; while the urge to suppress all wildfire is the left-brain urge to fight and control what frightens it.
+Third fire, on the other hand, and the machines in which it burns, feel to me like the products of the left hemisphere of the brain, and of the amnesiac cultures which, as Pyne explains, lost their “felt” (embodied) sense of how to relate to fire, and came to see it as “a good servant, but bad master.” Similarly, one could argue that the urge to “protect” trees for economic reasons is driven by the left brain’s self-interest, and sense that it is entitled to profit from the objects in the world around it; while the urge to suppress all wildfire is the left-brain urge to fight and control what frightens it.
 
 {% include essay/figure.html objectid="im-07" %}
 
@@ -29,7 +29,7 @@ Experts in trauma are also researching the differences between the left and righ
 
 Psychiatrist and researcher Bessel van der Kolk discusses this in his seminal book, [*The Body Keeps the Score.*](https://foresthistory.org/wp-content/uploads/2017/02/EdwardStahl.pdf) When we experience something terrifying, it is immediately stored by the back right brain—the part that stores raw, unfiltered emotion. This part of the brain is so fast that we may never even process an experience consciously, before it is stowed away there, in darkness. 
 
-This is a phenomenon that many now are familiar with—the suppression of traumatic memories. Yet, this instinct for suppression, though helpful in the short-term, can often lead to alterations in memory, amnesia, and to explosive, erratic, or destructive behavior in the future. In that way, the suppression of trauma feels like a direct analogy, as well as an explanation, for the suppression of fire. 
+This processing error is a phenomenon that many of us are familiar with—the suppression of traumatic memories. The instinct for suppression, though helpful in the short-term, can often lead to problems with memory, amnesia, and to explosive, erratic, or destructive behavior in the future. In that way, the suppression of trauma feels like a direct analogy, as well as an explanation, for the suppression of fire. 
 
 In order to be processed, traumatic memories have to be unlocked from the back of the right brain and processed through the fronts of our right and left hemispheres. This is how we contextualize them, place them in the past, and, ultimately, make sense of them as a part of the ongoing narrative of our lives. Both hemispheres need to work together on this in order for it to be accomplished.
 
@@ -41,7 +41,7 @@ Unfortunately, when we sever ourselves from the past and opt for total suppressi
 
 In the end of his account, Thenon explains: “The cook's condition had improved so much that he had no further need of attention from us. However, he did not get back to a normal state while here, but I was informed some weeks later that he had entirely recovered.”
 
-Of the other, we get only a sentence.
+Of the other, we get only a sentence:
 
 “The 'lullaby boy' was taken to an asylum.” 
 
