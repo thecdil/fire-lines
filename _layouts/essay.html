@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container">
-    <h1 class="display-3 essay-title">{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
+    <h1 class="display-4 essay-title">{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
 
     <div class="tufte-content">
 
@@ -15,7 +15,7 @@ layout: default
     </div>
 
     <div class="text-center next-buttons">
-        {% if page.next %}<a class="display-5 text-dark" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>{% endif %}
+        {% if page.next %}<a class="display-6 text-dark" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>{% endif %}
     </div>
 </div>
 
