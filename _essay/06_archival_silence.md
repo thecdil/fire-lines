@@ -16,13 +16,13 @@ And yet, like most historical artifacts, the pamphlets might also help us to avo
 
 In the 1918 annual report from the Pend d’Oreille Timber Protective Association, the Fire Warden says the drought is terrible, the worst he’s seen since 1910. They are terrified, all summer, by the prospect of a fire starting, because most of the able men are mobilized in France, in the trenches of the First World War. Others, of course, will soon be dying in the 1918 epidemic of influenza.
 
-{% include essay/marginnote-image.html id="pdo_tpa1918" text="Pend d'Oreille Timber Protective Association Annual Report" image="pdo_tpa1918"%}
+{% include essay/marginnote.html id="pdo_tpa1918" text="Pend d'Oreille Timber Protective Association Annual Report" objectid="pdo_tpa1918" %}
 
 This 1918 report in particular throws 2020 into a different perspective.
 
 In the 1922 report published by the Priest Lake Timber Protective Association, the Fire Warden says the smoke was laying so thick upon the land that, by early July, the fire lookouts were totally useless. Just a sea of white. Not a drop of rain.
 
-{% include essay/marginnote-image.html id="cda_tpa1922" text="Coeur d'Alene Timber Protective Association Seventeenth Annual Report" image="cda_tpa1922"%}
+{% include essay/marginnote.html id="cda_tpa1922" text="Coeur d'Alene Timber Protective Association Seventeenth Annual Report" objectid="cda_tpa1922" %}
 
 Of course, this is decidedly *not* to suggest that climate change isn’t real, or that droughts and heat waves in the West are not growing more intense and more common. All of that, too, is a part of the Pyrocene. But if there’s anything that can be learned from the early firefighters of the Northwest, it is this: suppression never works. Not of fires. Not of stories. Not of memories. Not of fear. And most definitely not of history—not of complicating, temporally expansive context. 
 
