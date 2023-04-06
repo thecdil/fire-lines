@@ -49,4 +49,4 @@ $theme-colors: map-merge(
 @import "theme-colors", "theme-utilities";
 {% endif %}
 
-@import "base", "pages", "tufte", "custom";
+@import "base", "pages", "tufte", "print", "custom";
