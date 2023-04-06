@@ -20,6 +20,5 @@ The essay introduces threads from the archival material, alongside Indigenous fi
 
 ## About The Project
 
-Fire Lines was written by Isabel Marlins as an MFA internship project in 2022/23 with support from [Leah Hampton](https://leahkhampton.com/) (Environmental Humanities and Creative Writing Fellow in Residence at the Confluence Lab).
-The web site was created by Evan Peter Williamson from the U of I Library's [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/). 
-It was built using a customized [CollectionBuilder](https://collectionbuilder.github.io/) template with features to support a multimodal essay weaving the presentation writing and archival objects together.
+Fire Lines was written by Isabel Marlins as an MFA internship project in 2022/23 with support from [Leah Hampton](https://leahkhampton.com/) (Environmental Humanities and Creative Writing Fellow in Residence at the Confluence Lab) and [Evan Peter Williamson](https://www.lib.uidaho.edu/about/people/ewilliamson.html) (Co-Director of the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu/)).
+The web site was built using a customized [CollectionBuilder](https://collectionbuilder.github.io/) template with features to support a multimodal essay weaving the presentation writing and archival objects together.
