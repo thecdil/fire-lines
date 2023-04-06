@@ -1,7 +1,7 @@
 ---
 title: Fire Lines
 layout: essay
-permalink: /00_firelines2.html
+permalink: /00_firelines.html
 byline: by Isabel Marlens
 ---
 
