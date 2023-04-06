@@ -30,12 +30,12 @@
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
     <div id="everything" class="flex-grow-1">
     {% include collection-nav.html %}
-    <main role="main" class="">
+    <main role="main" id="maincontent">
 
         <div id="home-banner" class="container-fluid mt-3 mb-5">
 
             <div id="title-box" class="col-md-5 py-3 px-5 text-white bg-dark bg-opacity-75 rounded">
-                <h1 id="maincontent" class="display-2">{{ site.title }}</h1>
+                <h1 class="display-2">{{ site.title }}</h1>
                 {% if site.tagline %}<p class="mb-0">{{ site.tagline }}</p>{% endif %}
             </div>
 
