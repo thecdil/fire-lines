@@ -2,11 +2,11 @@
 layout: default
 ---
 <style>
-    body {
+    #everything {
         background-image: url('{{ site.data.featured_item.src | relative_url }}');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: {{ site.data.theme.home-banner-image-position | default: 'center' }};
+        background-position: center;
     }
     #home-banner {
         height: 500px;
