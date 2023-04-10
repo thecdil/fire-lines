@@ -1,5 +1,6 @@
 ---
-title: 4. Three Fires
+title: Three Fires
+chapter: 4
 layout: essay
 permalink: /04_three_fires.html
 ---

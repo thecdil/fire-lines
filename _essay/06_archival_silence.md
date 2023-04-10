@@ -1,5 +1,6 @@
 ---
-title: 6. Archival Silence
+title: Archival Silence
+chapter: 6
 layout: essay
 permalink: /06_archival_silence.html
 ---

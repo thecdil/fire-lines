@@ -1,5 +1,6 @@
 ---
-title: 7. Clearings
+title: Clearings
+chapter: 7
 layout: essay
 permalink: /07_clearings.html
 ---

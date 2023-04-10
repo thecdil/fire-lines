@@ -1,5 +1,6 @@
 ---
-title: 5. Two Brains
+title: Two Brains
+chapter: 5
 layout: essay
 permalink: /05_two_brains.html
 ---
