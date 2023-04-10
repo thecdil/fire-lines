@@ -36,26 +36,28 @@
         */
         /* chapter page set up */
         @page:right chapter {
-            @bottom-right {
+            @bottom-center {
                 content: counter(page);
                 font-size: 11px;
             }
-            @bottom-center {
+            /*
+            @top-center {
                 content: string(ctitle);
                 text-transform: uppercase;
                 font-size: 11px;
-            }
+            }*/
         }
         @page:left chapter {
-            @bottom-left {
+            @bottom-center {
                 content: counter(page);
                 font-size: 11px;
             }
-            @bottom-center {
+            /*
+            @top-center {
                 content: "{{ site.title }}";
                 text-transform: uppercase;
                 font-size: 11px;
-            }
+            }*/
         }
         /* set page numbers at first chapter */
         #chapter01 { counter-reset: page 1; }
