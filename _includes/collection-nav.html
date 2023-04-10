@@ -21,7 +21,7 @@
                         <a class="nav-link dropdown-toggle{% if essayStubs contains page.url %} active{% endif %}" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Fire Lines</a>
                         <div class="dropdown-menu dropdown-menu-dark">
                             {% for e in site.essay %}
-                            <a class="dropdown-item {% if page.url == e.url %}active{% endif %}" href="{{ e.url | relative_url }}">{{ e.title }}</a>
+                            <a class="dropdown-item {% if page.url == e.url %}active{% endif %}" href="{{ e.url | relative_url }}">{% if e.chapter %}{{ e.chapter }}. {% endif %}{{ e.title }}</a>
                             {% endfor %}
                         </div>
                     </li>
