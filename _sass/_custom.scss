@@ -24,6 +24,11 @@ body {
     margin-top: 8rem;
     margin-bottom: 2rem;
 }
+@include media-query($on-desktop) {
+    .essay-title {
+        margin-left: 5rem;
+    }
+}
 .next-buttons {
     margin-top: 3rem;
     margin-bottom: 10rem;
