@@ -30,10 +30,11 @@
     {%- capture image_src -%}{{ figure.object_location | default: figure.image_small | relative_url }}{% endcapture %}
 {% endif %}
 <figure>
-    <label for="{{ include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
-    <input type="checkbox" id="{{ include.objectid | slugify }}" class="margin-toggle"/>
-    {% unless include.caption == false %}<span class="marginnote">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span> {%- endunless -%} 
+    <label for="{{ include.objectid | slugify }}" class="margin-toggle print-hide">&#8853;</label>
+    <input type="checkbox" id="{{ include.objectid | slugify }}" class="margin-toggle print-hide"/>
+    {% unless include.caption == false %}<span class="marginnote print-hide">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span> {%- endunless -%} 
     <a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
         <img class="figure-img img-fluid rounded" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %}>
     </a>
+    {% unless include.caption == false %}<figcaption class="figure-caption d-none print-show">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</figcaption>{% endunless %}
 </figure>
