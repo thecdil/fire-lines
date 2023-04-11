@@ -12,7 +12,7 @@ This essay by Isabel Marlens connects the Confluence Lab’s [Stories of Fire](h
 
 {% include essay/figure.html caption=false objectid="im-11" %}
 
-The goal of the Confluence Lab is to take an an interdisciplinary, humanities-based approach to environmental issues impacting communities in the rural Northwest. An archive has many purposes, but one is to keep the past alive so that it may be allowed explain the present, and influence the future. 
+The goal of the Confluence Lab is to take an interdisciplinary, humanities-based approach to environmental issues impacting communities in the rural Northwest. An archive has many purposes, but one is to keep the past alive so that it may be allowed explain the present, and influence the future. 
 
 The essay introduces threads from the archival material, alongside Indigenous fire knowledge, ideas from Western science—both historical and current—literature, psychology, and history in an effort to understand the lasting effects of 1910’s Great Fire on the landscapes of the Northwest.
 
