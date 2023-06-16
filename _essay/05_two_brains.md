@@ -7,7 +7,6 @@ permalink: /05_two_brains.html
 
 In the 1980’s, neuroimaging researchers began to notice striking differences between brain-injured people, depending on whether their injury was to the left or the right hemisphere of the brain. People who had left-hemisphere injuries struggled with speech, and certain mechanical tasks. But they could still relate to other human beings, appreciate beautiful music, literature, and nature, and understand subtle emotional context. People who had injured the right-hemisphere, on the other hand, struggled less with speech, and could complete more practical tasks. But they had lost the ability understand nuance. In a way, they started to think more like machines, becoming inclined to lump things into broad categories, as their perspectives became more disembodied, and disconnected from larger contexts. They also became more self-interested, and had trouble relating to humans and other living things in an intersubjective way (in other words, as two conscious minds relate). They started relating to everything outside of themselves as if it were a lifeless object. 
 
-
 {% include essay/figure.html objectid="im-08" %}
 
 The pop-psychology conception of the left and right brain (the left brain is logical; the right brain creative), has largely been debunked; both hemispheres of the brain are involved in almost all major functions. But researchers found there were unmistakeable differences between the hemispheres, not so much in what they do as in how they do it.
