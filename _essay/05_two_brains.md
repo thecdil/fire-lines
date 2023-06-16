@@ -15,7 +15,7 @@ Psychiatrist and neuroimaging researcher Iain McGilchrist has proposed the theor
 
 In a way, this theory meshes cleanly with Pyne’s theory of second and third fire. Second fire exists in an intersubjective relationship with human beings, and feels like the product of a right-hemisphere-dominant way of existing in the world. As Amy Cardinal Christianson, an Indigenous fire expert in Canada, explains: "We coexist with fire, we need fire and fire needs us. It’s a different way of looking at the forest.” 
 
-Third fire, on the other hand, and the machines in which it burns, feel like the products of the left hemisphere of the brain, and the amnesiac cultures which, as Pyne explains, lost their “felt” (embodied) sense of how to relate to fire — saw it as “a good servant, but bad master.”
+Third fire, on the other hand, and the machines in which it burns, feel like the products of the left hemisphere of the brain, and the amnesiac cultures which, as Pyne explains, lost their “felt” (embodied) sense of how to relate to fire — saw it as “a good servant, but a bad master.”
 
 
 {% include essay/figure.html objectid="im-07" %}
